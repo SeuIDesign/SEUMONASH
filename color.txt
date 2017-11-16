@@ -1,0 +1,5 @@
+background-color:#002147
+nav_color:#1a385a
+nav_a_color:#3277ae
+news_color:#f3f1ec
+study_color:#e0ded9
